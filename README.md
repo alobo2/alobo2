@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alobo2 aka Aaron
 - 👀 I’m interested in ... systems, networks, and ai
-- 🌱 I’m currently learning ... (programming languages, and as of right now:) golang
+- 🌱 I’m currently learning ... programming languages and as of right now: golang
 - 💞️ I’m looking to collaborate on ... projects involving networks and service, and love creative artistic projects
 - 📫 How to reach me ... [whoops, not yet]
 
