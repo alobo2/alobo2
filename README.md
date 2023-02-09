@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alobo2 aka Aaron
-- 👀 I’m interested in ... full stack web development, and ai
+- 👀 I’m interested in ... full stack web development and ai
 - 🌱 I’m currently learning ... machine learning systems, c++ with operating systems/networks, and doing personal projects
 - 💞️ I’m looking to collaborate on ... projects involving community events, ai, and I also love creative artistic projects
 - 📫 How to reach me ... [whoops, not yet]
